@@ -3,6 +3,7 @@
  * Description:  The copy-and-swap idiom example. It avoids code duplication
  *               and provides a strong exception guarantee in the assignment
  *               operator and move constructor implementations.
+ *         Ref:  https://stackoverflow.com/a/3279550/3157524
  *
  *      Author:  Tomasz Pieczerak <tphaster AT gmail.com>
  */

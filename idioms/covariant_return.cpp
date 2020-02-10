@@ -3,6 +3,7 @@
  * Description:  The covariant return types idiom example. Avoid unnecessary
  *               casting of the derived value returned from an overridden
  *               method in a derived class.
+ *         Ref:  https://www.lwithers.me.uk/articles/covariant.html
  *
  *      Author:  Tomasz Pieczerak (tph) <tphaster AT gmail.com>
  */
